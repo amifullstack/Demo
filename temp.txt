@@ -1,0 +1,11 @@
+db.renderUsers.insert({
+  "id": "1",
+   "firstname": "Sanjay",
+   "lastname": "Shr",
+   "email": "s@s.com",
+   "gender": "M",
+   "companyname": "None",
+   "jobtitle": "NullStack",
+   "university": "UTV",
+   "skill": "Assembly"
+})
